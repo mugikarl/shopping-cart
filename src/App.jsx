@@ -55,7 +55,7 @@ function App() {
               />
             ))}
           </div>
-          <div className="w-1/3 max-w-md">
+          <div className="w-1/2">
             <div className="border rounded-lg bg-white shadow-md p-4 mb-2">
               <h1 className="text-xl font-bold text-blue-950">My Cart</h1>
               <div className="mt-4">
