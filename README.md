@@ -22,5 +22,5 @@ A simple e-shopping cart built with React + Vite, where users can add products t
 │   └── autoprefixer
 
 ## IMAGES OF THE SHOPPING CART
-![Shopping Cart Image](public/product-image.png)
+![Shopping Cart Image](public/product-page.png)
 ![Shopping Cart Checkout Image](public/checkout-page.jpg)
