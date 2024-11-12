@@ -3,7 +3,7 @@
 ## DESCRIPTION
 A simple e-shopping cart built with React + Vite, where users can add products to the cart, proceed to checkout, and view the total price and pay!
 
-### STEPS TO RUN:
+## STEPS TO RUN:
 1. **Clone the Repository:**
     git clone https://github.com/mugikarl/shopping-cart.git
 2. **Navigate to the Project Folder**
@@ -14,12 +14,14 @@ A simple e-shopping cart built with React + Vite, where users can add products t
     npm install -D tailwindcss postcss autoprefixer
 
 ## LIBRARIES USED
+```text
 ├── react
 │   ├── react-dom
 │   └── react-router-dom
 ├── tailwindcss
 │   ├── postcss
 │   └── autoprefixer
+```
 
 ## IMAGES OF THE SHOPPING CART
 ![Shopping Cart Image](public/product-page.jpg)
