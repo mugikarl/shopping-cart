@@ -5,7 +5,7 @@ A simple e-shopping cart built with React + Vite, where users can add products t
 
 ### STEPS TO RUN:
 1. **Clone the Repository:**
-    git clone https://github.com/your-username/shopping-cart.git
+    git clone https://github.com/mugikarl/shopping-cart.git
 2. **Navigate to the Project Folder**
     cd shopping-cart
 3. **Install Dependencies**
