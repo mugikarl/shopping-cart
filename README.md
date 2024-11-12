@@ -10,8 +10,6 @@ A simple e-shopping cart built with React + Vite, where users can add products t
     cd shopping-cart
 3. **Install Dependencies**
     npm install
-    npm install react-router-dom
-    npm install -D tailwindcss postcss autoprefixer
 
 ## LIBRARIES USED
 ```text
